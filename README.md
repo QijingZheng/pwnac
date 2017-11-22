@@ -9,9 +9,7 @@ accordingly and then type `make`. The resulting binary is called `pwnac`.
 
 # Usage
 1. `pwnac` is used to calculate the NACs between two wavefunctions.
-
 ``` pwnac dir1 dir2 ```
-
 where `dir1` and `dir2` are the directories that contain the pwscf wavefunction,
 e.g. "./pwscf.save/K0001".
 

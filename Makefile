@@ -1,6 +1,6 @@
 ################################################################################
 # the FORTRAN compiler used to compile QuantumEspresso
-LD             = /public/apps/intel/compilers_and_libraries_2016.3.210/linux/mpi/intel64/bin/mpiifort
+LD             = mpiifort
 # The directory of QE iotk.
 LDFLAGS        = -I/public/home/zqj/src/Quantum_Espresso/6.1/qe-6.1/S3DE/iotk/src/
 # The location of libiotk.a
